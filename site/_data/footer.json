@@ -1,29 +1,19 @@
 {
   "logo": "/images/footer-logo.svg",
-  "copyright": "MyCompany, All rights reserved!",
+  "copyright": "PETALS, All rights reserved!",
   "social": [
     {
-      "link": "https://www.facebook.com/",
-      "icon": "ph-facebook-logo",
-      "icon_alt": "Facebook"
-    },
-    {
-      "link": "https://www.instagram.com/",
+      "link": "https://www.instagram.com/petals.team",
       "icon": "ph-instagram-logo",
       "icon_alt": "Instagram"
     },
     {
-      "link": "https://twitter.com/",
-      "icon": "ph-twitter-logo",
-      "icon_alt": "Twitter"
-    },
-    {
-      "link": "https://www.github.com/",
+      "link": "https://www.github.com/PETALS-team/",
       "icon": "ph-github-logo",
       "icon_alt": "GitHub"
     },
     {
-      "link": "https://www.youtube.com/",
+      "link": "https://www.youtube.com/@PETALSteam",
       "icon": "ph-youtube-logo",
       "icon_alt": "YouTube"
     }
