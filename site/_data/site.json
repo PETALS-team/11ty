@@ -1,11 +1,10 @@
 {
-    "BaseURL": "http://example.org",
-    "site_title": "Sendit",
+    "BaseURL": "https://petalsframework.com",
+    "site_title": "PETALS",
     "favicon_icon": "/images/favicon.ico",
     "favicon_image": "/images/favicon.png",
-    "description": "A polished, marketing website template built with Eleventy",
+    "description": "A simple framework to help continuously improve team health with 5 key areas.",
     "twitter_image": "/images/feature/feature-hero-two.png",
-    "twitter_site": "@twitter_site",
     "image": "/images/feature/feature-hero.png"
     
 }
